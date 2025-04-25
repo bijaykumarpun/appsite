@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'bkp501031.com'
-baseurl:          '/'
+url:              'bkp501031.xyz'
+baseurl:          '/index.html'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
